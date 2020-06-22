@@ -16,6 +16,12 @@ const Types = {
     shells: 'shells'
 }
 
+app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
+
 const convertName = name => name.replace(/_/gi, ' ');
 const trimName = name => name.replace(/\.md/gi, '');
 
@@ -26,7 +32,12 @@ app.get(`/:layer/:recipe`, async (req, res) => {
     if(isLayer(layer)){
         try{
             const file = await readFile(`./${layer}/${recipe}.md`, 'utf-8');
-            res.send(md.render(file));
+            res.send({
+                slug: recipe,
+                recipe: md.render(file),
+                layer,
+                name: convertName(recipe)
+            });
         } catch(err){
             res.sendStatus(404);
         }
