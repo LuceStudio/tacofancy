@@ -18,7 +18,7 @@ This isn't authentic al pastor (the real preparation is very similar to shawarma
 1. Coat the shoulder generously with salt, and brown it well on all sides in a hot pan.
 2. Puree the peppers, adobo, pineapple, fish sauce, kekap manis, tomatoes, and cumin in a food processor or blender to a smooth puree. Taste and adjust seasoning.
 3. Pour half of the puree into a crock pot, and add the browned pork.
-4. Add a little liquid to the pan the pork cooked in (water, stock, beer, whatever's on hand) and scrape up all the good brown bits. Pour into the crock pot.
+4. Add a little liquid to the pan the pork cooked in (water, stock, Coke, whatever's on hand) and scrape up all the good brown bits. Pour into the crock pot.
 5. Add the rest of the puree to the crock pot, then stick the whole thing in the fridge for at least an hour, or overnight.
 6. Cook the pork on the lowest setting for 10-12 hours, until it pulls apart very easily.
 7. Turn the crock pot to off, and leave the pork in the pot to cool for 30 minutes.

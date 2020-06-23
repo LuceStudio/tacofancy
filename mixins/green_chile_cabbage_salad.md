@@ -17,11 +17,11 @@ This isn't a tradition, or even particularly traditional -- except in my apartme
 4. While the corn is going, core and chop the cabbage in to wide strips.
 5. How's the corn doing?
 6. Juice the limes.
-7. How's the corn doing? If it's not done yet, grab a beer and hang out 'til it is.
+7. How's the corn doing? If it's not done yet hang out 'til it is.
 8. The corn is done? Great. Toss it on top of the cabbage. Add a little salt, then a good hit of olive oil, then half-or-so of the lime juice. Toss in a good tablespoon or two of the green chile powder. Start stirring.
 9. You want everything coated nicely, but I don't like the salad too oily, so go easy on that. I add lime until the sour balances the sweet of the corn. I add green chile slowly -- it takes a second to rehydrate and get hot. I might add as much as a half cup of the stuff to a salad for myself or spicy food fans like me; I go easier on the spice-unenthused.
 10. Serve it! If you're in to tossing a little cheese on there, do it -- but I usually just eat it straight. Sometimes this goes on fish or chicken tacos; sometimes it's a side to richer pork tacos. It's always awesome.
 
-**Note on ingredients**: green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage). Do have this with cold, crisp beer.
+**Note on ingredients**: green chile is the gastronomical life blood of New Mexican cuisine, but it's little known in the other 49 states. I like a brand called [_Los Chileros de Nuevo Mexico_](http://www.loschileros.com/), which I can find sometimes in tiendas and other times at Whole Foods (go figure). The trick here is this: just don't accept substitutes. It's not the same. I've also had to accept that fresh chile is just not what this salad needs, so don't do that either (it doesn't distribute well enough across the cabbage).
 
 tags: vegetarian, vegan

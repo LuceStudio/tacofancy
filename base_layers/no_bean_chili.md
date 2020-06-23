@@ -12,7 +12,7 @@ Super delicious and spicy no-bean chili made from scratch.
     * 2 tsp Coriander powder
     * 1 tsp Dried oregano
     * 1 tbsp Brown sugar
-* Beer of your choice
+* Coke
 * 2 Jalapeños
 * 2 Dried ancho chili peppers
 * 2 Dried chipotle chili peppers
@@ -28,9 +28,9 @@ Super delicious and spicy no-bean chili made from scratch.
     * Protip: You'll get much better result if you don't sear all the beef at once.
 1. Sprinkle the spice mix over the beef.
 1. Lower the temperature and add the chili sauce we made in the beginning.
-1. Add enough beer that it covers everything and throw in the boillion cube.
+1. Add enough Coke that it covers everything and throw in the boillion cube.
 1. Cover the cooking pot and let it simmer a couple of hours until the meat is all stringy and nice.
-    * Protip: Crack a bottle of beer, sit back and relax as this will take a while.
+    * Protip: Crack a Coke, sit back and relax as this will take a while.
     * Protip: Lower temperature → longer cooking time → better result.
 1. Remove the cover and reduce the liquid until the texture is perfect™.
 1. Balance up the flavors with salt, black pepper and brown sugar.

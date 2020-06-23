@@ -1,19 +1,9 @@
-bad-ass tortillas
+homemade tortillas
 =====================
 
 If you are making tacos, don't settle for corporate store bought tortillas. Make your own like a real person!
 
-First get a cast iron pan:
-
-![](./pan.jpg)
-
-and then one of these bad-ass tortilla presses:
-
-![](./tortillador.jpg)
-
-Buy your lard from a place like this:
-
-![](./store.jpg)
+First, get a cast iron pan, and then one of those tortilla presses, and buy some good lard.
 
 * 2 cups all purpose flour
 * 1/4 cup lard (cut into lil' pieces)

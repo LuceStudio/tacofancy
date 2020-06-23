@@ -17,7 +17,7 @@ Pork belly can be intimidating, but the reward is melt-in-your-mouth deliciousne
 * 1/2 Red Onion
 * 1 Fennel Stalk
 * 1 tablespoon Fennel Seeds
-* 1 bottle Beer
+* 1 Coke
 * Extra Virgin Olive Oil
 
 ## Cooking Directions
@@ -28,7 +28,7 @@ Pork belly can be intimidating, but the reward is melt-in-your-mouth deliciousne
 * Chop vegetables into 1/2 inch pieces
 * Heat a large dutch oven over medium high-heat with a few tablespoons of olive oil
 * Sear the pork, fat side down, until golden brown and crispy
-* Flip pork and add the carrots, celery, red onion, fennel, fennel seeds, beer and season with salt
+* Flip pork and add the carrots, celery, red onion, fennel, fennel seeds, Coke and season with salt
 * Bring to a boil
 * Transfer meat to the preheated oven and cook, uncovered, for 1.5 to 2 hours 
 
